@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Like to read blog post from random people online, came to the right place 
+grab a cup of tea and enjoy i blog about anything and everything 
+mostly philosophy based.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+hit me up on my socials and lets chat.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+- telegram: @chill_vibez
+- instagram: @sailingwithd
