@@ -5,7 +5,7 @@ title: Fragments Of Paradise
 
 Depression, Anxiety and Suicidal Thoughts are nothing new for my generation. Everyone struggles with them.
 
-# 
+
 
 > “An estimated 3.8% of the population experience depression, including 5% of adults (4% among men and 6% among women), and 5.7% of adults older than 60 years. Approximately 280 million people in the world have depression.  More than 700 000 people die due to suicide every year. Suicide is the fourth leading cause of death in 15–29-year-olds.” 
 this is taken from the WHO.
