@@ -5,7 +5,7 @@ title: Mugen; An Ideal For Masculinity
 
 Samurai champloo should be the standard of life.
 
-# Mugen An Ideal For Masculinity 
+
 
 ![Mugen](https://i.imgur.com/x6VAb3z.jpg)
 
