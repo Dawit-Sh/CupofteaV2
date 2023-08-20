@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Like to read blog post from random people online, came to the right place 
-grab a cup of tea and enjoy i blog about anything and everything 
-mostly philosophy based.
+![about-bg](https://raw.githubusercontent.com/Dawit-Sh/tea/master/img/about-bg.png)
+If you are interested in reading random articles you find on the internet then you came to the right place. I am some random guy on the internet writing my thoughts and views on the world. Well if you want to kill time reading something. grab a cup of tea and enjoy.
 
 ### Contact me
 
