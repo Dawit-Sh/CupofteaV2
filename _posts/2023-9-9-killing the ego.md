@@ -38,7 +38,7 @@ The looking-glass self has three main components:
   1.  The imagined audience: This is the group of people whose opinions we care about the most. It could be our family, friends, colleagues, or anyone else who we feel is important to us.
 
   2.  The reflected appraisals: These are the imagined judgments of the imagined audience. We imagine how they would see us, what they would think of us, and how they would feel about us.
-  
+
   3.  The self-conception: This is our own self-image, which is shaped by the reflected appraisals.
 
 For example, if we imagine that our friends think we are funny, then we are more likely to see ourselves as funny. On the other hand, if we imagine that our parents think we are lazy, then we are more likely to see ourselves as lazy.
@@ -69,8 +69,8 @@ as we can see in *the legend of korrah* a sequel series to *Avatar the last airb
 Now we all can pick up on the metaphor of government as the looking-glass self or the ego, so basically achieving ego death. 
 we can see zaheer achieve that when P'Li his girlfriend who was a combustionbender died and he achieved the ultimate freedom or ego death and that is when he levitates or starts to fly. 
 
-> "New growth cannot exist without first the destruction of the old."
-	- Guru Laghima
+> "New growth cannot exist without first the destruction of the old."<br>
+- Guru Laghima
 
 so now enough rant lets jump right into killing your ego the funny part is this are things we already know but are hard to achieve.
 
@@ -83,8 +83,8 @@ the more prideful you are the more ego you have.
 
 3. ## Practice forgiveness
 Forgiveness is the act of letting go of anger and resentment towards someone who has wronged us. When we forgive, we free ourselves from the negative emotions that are holding us back.
-> “Anger is the punishment we give ourselves for someone else's mistake.” 
--  Gautama Buddha 
+> “Anger is the punishment we give ourselves for someone else's mistake.” <br>
+- Gautama Buddha 
 
 people are not perfect and are fond to make mistakes and cause chaos knowing or unknowingly. it could be so they can gain power, money or whatever is of status at the time being and sometimes it can be unconscious and just a simple dumb mistake, but getting angry being bothered by this. letting it get to you, the thought of revenge and the regurgitation of those thoughts do good for us. Learn to let go, learn to understand what is within your control and what is not within your control, the **dichotomy of control** calls it seneca
 
