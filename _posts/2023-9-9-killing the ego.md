@@ -36,7 +36,9 @@ The looking-glass self is a social psychological concept developed by Charles Ho
 The looking-glass self has three main components:
 
   1.  The imagined audience: This is the group of people whose opinions we care about the most. It could be our family, friends, colleagues, or anyone else who we feel is important to us.
+
   2.  The reflected appraisals: These are the imagined judgments of the imagined audience. We imagine how they would see us, what they would think of us, and how they would feel about us.
+  
   3.  The self-conception: This is our own self-image, which is shaped by the reflected appraisals.
 
 For example, if we imagine that our friends think we are funny, then we are more likely to see ourselves as funny. On the other hand, if we imagine that our parents think we are lazy, then we are more likely to see ourselves as lazy.
