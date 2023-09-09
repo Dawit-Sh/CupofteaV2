@@ -74,14 +74,14 @@ we can see zaheer achieve that when P'Li his girlfriend who was a combustionbend
 
 so now enough rant lets jump right into killing your ego the funny part is this are things we already know but are hard to achieve.
 
-1. ## Accept yourself
+## Accept yourself
 One of the best ways to kill the ego is to accept yourself for who you are, flaws and all. This doesn't mean that you have to like everything about yourself, but it does mean that you need to be willing to accept yourself without judgment. This does not mean shy away from trying to achieve greatness or perfection because after all you need your power process.
-2. ## Serve others
+## Serve others
 When we serve others, we take the focus off of ourselves and our own needs. This can help us to develop a sense of compassion and humility, which can weaken the ego. and i think uncle iroh everyone's favorite uncle from avatar the last airbender summarized in one quote
 > "Pride Is Not The Opposite Of Shame, But Its Source. True Humility Is The Only Antidote To Shame."
 the more prideful you are the more ego you have.
 
-3. ## Practice forgiveness
+## Practice forgiveness
 Forgiveness is the act of letting go of anger and resentment towards someone who has wronged us. When we forgive, we free ourselves from the negative emotions that are holding us back.
 > “Anger is the punishment we give ourselves for someone else's mistake.” <br>
 - Gautama Buddha 
@@ -91,10 +91,10 @@ people are not perfect and are fond to make mistakes and cause chaos knowing or 
 ![diagram](https://i.imgur.com/90hkrmq.png)
 *if your wondering how i made this diagram i found an open source tool on github made by typescript [excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)*
 
-4. ## Break the Social Norm
+## Break the Social Norm
 when i say break the social norm i don't mean go berserk and do what thy shall wants. i mean break the looking-glass self, challenge your ideas try to understand every angle. but while you are doing this be sure not to mess around with the main pillar of a society or culture the core values that hold it together. because once you break those there is no coming back.
 
-5. ## Become aware of your ego
+## Become aware of your ego
 The first step to killing your ego is to become aware of it. Pay attention to the thoughts and feelings that come up when you are faced with challenges or setbacks. Are you feeling angry, frustrated, or defensive? These are all signs that your ego is trying to protect itself.
 
 Killing the ego is not an easy task, but it is a worthwhile one. When we let go of the attachments that we have to our ego, we can experience a greater sense of freedom, peace, and joy.
