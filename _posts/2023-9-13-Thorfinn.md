@@ -3,7 +3,7 @@ layout: post
 title: The Philosophy Of Thorfinn
 ---
 
-> I Have No Enemies None At All.
+I Have No Enemies None At All.
 
 
 ![thorfinn](https://i.imgur.com/xFeTvBH.jpg)
