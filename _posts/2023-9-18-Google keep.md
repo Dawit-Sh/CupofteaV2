@@ -19,7 +19,7 @@ There are  a few small features built into Google Keep that makes is really amaz
 - **Integration** - as a strenuous android user, and Google owning android and most other used services around the globe it seems fair to use something that is tightly integrated with other Google products such as Drive, Calendar and Assistant. So you just have your notes what ever you are doing when ever you are doing it and don't have to worry about integrations and backwards compatibility.
 - **Flexibility** - Google keep notes can be created in variety of formats you can use audio if your in the toilet when inspiration hits, images, drawings. which makes it ready on the go.
 - **Collaboration** -  you can work on the same not with othe people. Just add their email addresses and then you can start working together.
-The things i wished google keep had were desktop applications, you can still access the web version as a desktop app via Tangram or any other method you want but having that desktop program for most platforms like windows, mac & Linux and adding the offline functionality similar to the phone would really be nice.
+The things i wished google keep had were desktop applications, you can still access it as PWA (progressive web app) via Tangram or any other method you want but having that desktop program for most platforms like windows, mac & Linux and adding the offline functionality similar to the phone would really be nice.
 
 Reading the pros i mentioned you probably have an idea why i prefer to use google keep as a capturing app and note a note taking one. 
 
