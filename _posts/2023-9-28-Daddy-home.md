@@ -58,7 +58,7 @@ And this is where the boys stand out it shows us that most seemingly perfect peo
 
 ## Resources 
 - [How to Identify and Handle a Narcissist](https://ceoofyour.life/2018/06/how-to-identify-and-handle-a-narcissist/)
-- [Oedipus complex | Definition & History | Britannica](https://www.britannica.com/science/Oedipus-complex)
+- [Oedipus complex](https://www.britannica.com/science/Oedipus-complex)
 - [Oedipus Complex: Sigmund Freud Mother Theory](https://www.simplypsychology.org/oedipal-complex.html)
 
 
