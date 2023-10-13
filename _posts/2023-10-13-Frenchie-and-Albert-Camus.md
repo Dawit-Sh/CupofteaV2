@@ -49,5 +49,7 @@ Frenchie and Albert Camus are two struggling heroes who share many similarities.
 
 Frenchie and Camus' stories are important because they remind us that there is always hope, even in the darkest of times. They also remind us that we should never give up on our ideals, no matter how difficult things may seem.
 
+Also check out an older post : [Perfect life - Camus](https://dawit-sh.github.io/tea/post/2023/camus_life_tip.html)
+
 
 *As always hope you enjoyed this on, kinda took a serious route on this one and tried to make it spoiler free as much as i can, and you should watch boys and read camus, GET EDUCATED SON !!*
