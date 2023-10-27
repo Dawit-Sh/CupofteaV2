@@ -27,7 +27,7 @@ Larry is a good man who suffers greatly, leading him to question why God allows 
 ### The nature of faith 
 ---
 Larry's faith is shaken by the events in his life, but he never completely gives up on it. The film explores the different ways in which people can experience faith, and it suggests that faith can be a source of strength and comfort even in the face of adversity.
-Ending Variations, something [Frectonz](https://frectonz.io/) would highgly agree on.
+Ending Variations, something [Frectonz](https://frectonz.io/) would highly agree on.
 
 
 The ending of A Serious Man is ambiguous and has been interpreted in many different ways. Here are a few variations on the ending, i mean no movie ending has confused me like this except *donnie darko, enemy, tenet* and most movies which Jake Gyllenhaal is involved in and a bunch of other movies but i won't rant about it now.
