@@ -5,8 +5,7 @@ title: "Mikhail Lomonosov"
 
 **A Renaissance Man of Russia**
 
-
-[M.V.\_Lomonosov\_by\_L.Miropolskiy\_after\_G.C.Prenner\_(1787,\_RAN).jpg (JPEG Image, 597 × 800 pixels) — Scaled (85%)](https://upload.wikimedia.org/wikipedia/commons/4/4d/M.V._Lomonosov_by_L.Miropolskiy_after_G.C.Prenner_%281787%2C_RAN%29.jpg)
+[nvy8zUx.png (PNG Image, 474 × 618 pixels)](https://i.imgur.com/nvy8zUx.png)
 
 Mikhail Lomonosov stands as a giant in Russian history, a true polymath who excelled in a vast array of fields. Born in 1711, his life spanned a period of immense change for Russia, and he himself became a key figure in ushering in a new era of scientific and cultural enlightenment.
 
