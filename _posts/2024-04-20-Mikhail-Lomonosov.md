@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title: "Mikhail Lomonosov"
 ---
 
 **A Renaissance Man of Russia**
-
 
 
 [M.V.\_Lomonosov\_by\_L.Miropolskiy\_after\_G.C.Prenner\_(1787,\_RAN).jpg (JPEG Image, 597 × 800 pixels) — Scaled (85%)](https://upload.wikimedia.org/wikipedia/commons/4/4d/M.V._Lomonosov_by_L.Miropolskiy_after_G.C.Prenner_%281787%2C_RAN%29.jpg)
