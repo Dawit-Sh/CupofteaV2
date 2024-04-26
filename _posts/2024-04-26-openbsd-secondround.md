@@ -3,7 +3,7 @@ layout: post
 title: OpenBSD Round Two 30 Days in a VM
 ---
 
-> "Seriously though, it’s incredible to me that an entire team of developers whose sole purpose is to develop a secure operating system can be so oblivious to the rest of the world."
+*"Seriously though, it’s incredible to me that an entire team of developers whose sole purpose is to develop a secure operating system can be so oblivious to the rest of the world."*
 - **Brad (spender) Spengler (spender, grsecurity developer)**
 
 
