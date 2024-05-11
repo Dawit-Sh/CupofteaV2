@@ -54,8 +54,7 @@ Here are some resources if you want to get started
 - [Getting started with Super Productivity - DEV Community](https://dev.to/johannesjo/getting-started-with-super-productivity-2791)
 - [Super Productivity Introduction - YouTube](https://www.youtube.com/watch?v=VoF2_RSdNXA)
 
-And i think i have found the perfect app for me, and did i mention it has sync offline and online(dropbox and what not). 
-
+And i think i have found the perfect app for me, and did i mention it has sync offline and online(dropbox and what not). I know i said i don't want sync but this is just incase you want backup history of your tasks
 I urge you all to give it a check you might enjoy it.  Maybe fall in love with it as i did.
 
 *As always thanks for reading and hope you enjoyed this one. see you on the next one :)*
