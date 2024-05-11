@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Still on todo apps ?
+title: Still on traditional todo apps ?
 ---
 
 *Super productivity the end all be all for program in the productivity realm*
@@ -50,7 +50,7 @@ I am even using it currently for writing this blog
 
 Here are some resources if you want to get started 
 
-- [Super Productivity – a to do list to get your head free | Super Productivity](https://super-productivity.com/)
+- [Super Productivity](https://super-productivity.com/)
 - [Getting started with Super Productivity - DEV Community](https://dev.to/johannesjo/getting-started-with-super-productivity-2791)
 - [Super Productivity Introduction - YouTube](https://www.youtube.com/watch?v=VoF2_RSdNXA)
 
