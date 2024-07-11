@@ -32,7 +32,7 @@ technology grow in harmony.
 
 So yea you might be wondering like wtf is all that and how is it important for me as a developer or an average doomer and my company. how can we benefit from it and what even is the link ?. 
 
-So the importance of Graceful Degradation shines in many  i mean why the fuck do you think military shit lasts long because niggas smart enough to realize that planned obsolescence does not work on the battlefield and tools should work as long as they can. 
+So the importance of Graceful Degradation shines in many ways i mean why the fuck do you think military shit lasts long because niggas smart enough to realize that planned obsolescence does not work on the battlefield and tools should work as long as they can. 
 
 There are a multitude of reasons why Graceful degradation is important here are some:
 
