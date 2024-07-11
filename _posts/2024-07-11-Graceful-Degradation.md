@@ -84,9 +84,9 @@ Graceful Degradation is a vital concept for developing reliable, resilient and s
 
 -  [A Deep Dive into Graceful Degradation](https://www.codereliant.io/failing-with-dignity/)
 
-- [What is graceful degradation? | Definition from TechTarget](https://www.techtarget.com/searchnetworking/definition/graceful-degradation)
+- [What is graceful degradation?](https://www.techtarget.com/searchnetworking/definition/graceful-degradation)
 
-- [Graceful degradation - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Graceful_degradation)
+- [Graceful degradation - MDN Web](https://developer.mozilla.org/en-US/docs/Glossary/Graceful_degradation)
 
 - [What is graceful degradation in CSS ? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-graceful-degradation-in-css/)
 
@@ -94,9 +94,9 @@ Graceful Degradation is a vital concept for developing reliable, resilient and s
 
 - [Solarpunk - Wikipedia](https://en.wikipedia.org/wiki/Solarpunk)
 
-- [What Is Solarpunk? A Guide to the Practical Movement. | Built In](https://builtin.com/articles/solarpunk)
+- [What Is Solarpunk?](https://builtin.com/articles/solarpunk)
 
-- [Solarpunk Is the Future We Should Strive For | Earth.Org](https://earth.org/solarpunk/)
+- [Solarpunk Is the Future We Should Strive For](https://earth.org/solarpunk/)
 
 - [Introduction - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780123695291500033)
 
