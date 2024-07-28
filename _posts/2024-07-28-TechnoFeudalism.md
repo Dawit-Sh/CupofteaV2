@@ -10,7 +10,7 @@ title: Revisiting Feudalism in the Digital Age; The Case for Technofeudalism
 *Art taken from [What Is Technofeudalism?](https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html)* 
 
 
-So what is all the fuss about, i did share hint this blog on my telegram channel [Here](https://t.me/davedumps/4085), but as you can from the article above where i snatched the art, technofeudalism is not that much of a new concept, but i recently became aware of it. So me being me i had to write about it and share my findings and opinions
+So what is all the fuss about, i did share a hint of this blog on my telegram channel [Here](https://t.me/davedumps/4085), but as you can from the article above where i snatched the art, technofeudalism is not that much of a new concept, but i recently became aware of it. So me being me i had to write about it and share my findings and opinions
 
 
 ## Topics
@@ -69,9 +69,9 @@ Intellectual property (IP) too has undergone a change in the age of technofeudal
 
 Open source software (OSS) is a type of software in which the source code is made available for everyone to view, edit, or enhance. Key principles surrounding open source are collaboration, transparency, and community-driven development.  All open source software comes with a free-to-use tag, thus nullifying every factor that acted as an entry barrier and democratizing access to technology. This counteracts the monopolistic tendencies of technofeudalism by providing alternatives to proprietary software.
 
-Open-source software often comes at no cost for licenses, thus reducing costs for individuals and businesses. Hence removing the underlying concept of feudalism. As an example let us take Amazon, Amazon is a proprietary digital platform where you can shop for stuff you like, so how does feudalism apply there, Bezos here own the platform Amazon where he neither sells or buys the stuff but a place or metaphorically the land where buyers and sellers come to meet and he harvests money from both the sellers for setting up their shops on that land and the buyers who visit the land. So if we were to assume on replaces this with Open Source platforms the aspect of feudalism can be slowly scraped off. 
+Open-source software often comes at no cost for licenses, thus reducing costs for individuals and businesses. Hence removing the underlying concept of feudalism. As an example let us take Amazon, Amazon is a proprietary digital platform where you can shop for stuff you like, so how does feudalism apply there, Bezos here owns the platform Amazon where he neither sells or buys the stuff but owns the place or metaphorically speaking the land where buyers and sellers come to meet. Then he harvests money from both the sellers for setting up their shops on that land and the buyers who visit the land. So if we were to assume that one replaces this with Open Source platforms the aspect of feudalism can be slowly scraped off. 
 
-There are organizations and polices that try to bring aspect to life. The Free Software Foundation (FSF) and the Open Source Initiative (OSI) are just two of the many organizations that campaign for policies that would promote open source development, while opposing laws and rules that would make permanent the dominance of the tech monopolies. 
+There are organizations and polices that try to bring aspect to life. The [Free Software Foundation (FSF)](https://www.fsf.org/) and the [Open Source Initiative (OSI)](https://opensource.org/) are just two of the many organizations that campaign for policies that would promote open source development, while opposing laws and rules that would make permanent the dominance of the tech monopolies. You can also be a member of this movement by just singing up to their site. 
 
 <h2 id="GAR"> Governance and Regulation </h2>
 
