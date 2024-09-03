@@ -4,9 +4,10 @@ title: The Modern Man in a nutshell - Pagliacci
 ---
 
 
+**la commedia è finita !**
+
 *“Heard joke once: Man goes to doctor. Says he's depressed. Says life seems harsh and cruel. Says he feels all alone in a threatening world where what lies ahead is vague and uncertain. Doctor says, "Treatment is simple. Great clown Pagliacci is in town tonight. Go and see him. That should pick you up." Man bursts into tears. Says, "But doctor...I am Pagliacci.”
 -Rorschach*
-
 
 I heard this while watching [Watchmen (2009) - IMDb](https://www.imdb.com/title/tt0409459/) which was recommended to me by a close friend of mine. The movie was interesting and fun to watch. But the quote got me thinking who is pagliacci and what, why and all the questions that arises together with it.  So i went down the rabbit hole of the pagliacci joke which dates way more back than you can think of [Was Rorschach's Pagliacci joke a real joke?](https://scifi.stackexchange.com/questions/131380/was-rorschachs-pagliacci-joke-a-real-joke).  You know and the usual stuff like philosophizing about it and all that jazz. Today i will try to paint to you why the modern man is a representation of Pagliacci the opera. So if you don't want the opera to get spoiled be use to watch it before hand because there will be a ton of spoilers. 
 
