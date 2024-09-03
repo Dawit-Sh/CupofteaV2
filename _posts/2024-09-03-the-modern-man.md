@@ -86,9 +86,9 @@ Pagliacci sums up the tragic duality of the performer and the sufferer through m
 
 ## Final Thoughts 
 
-*I hope you enjoyed this one cause i really did when research and reading about it i think it took around 2 weeks or something to realize this whole thing and i remember telling one my friends [ጉጉት's Journey](https://t.me/gugutlogs) a real cinema freak be sure to follow him on [letterboxd too](https://boxd.it/1ZEXz) the pagliacci joke and he said sounds similar and told me another one "Mario Puzo wrote both screenplays for Godfather 1 & 2. He had never written a screenplay before that, and after winning 2 Oscars he thought he should learn about screenwriting. So, he bought a book on writing and on the first page it said “study the Godfather Part 1 & 2 as perfect examples of the art of screenwriting". So yea maybe next time you are getting a blog about nick land, god father, Kaczynski. you never know.*
+*I hope you enjoyed this one cause i really did when researching and reading about it i think it took around 2 weeks or something to realize this whole thing and i remember telling one my friends [ጉጉት's Journey](https://t.me/gugutlogs) a real cinema freak be sure to follow him on [letterboxd too](https://boxd.it/1ZEXz) the pagliacci joke and he said sounds similar and told me another one "Mario Puzo wrote both screenplays for Godfather 1 & 2. He had never written a screenplay before that, and after winning 2 Oscars he thought he should learn about screenwriting. So, he bought a book on writing and on the first page it said “study the Godfather Part 1 & 2 as perfect examples of the art of screenwriting". So yea maybe next time you are getting a blog about nick land, god father, Kaczynski. you never know.*
 
-*I really hope that i got you interested in some new stuff which you will go on and dig more for yourself cause this is just the tip of the iceberg and since you now know about verismo and godard let me drop this meme and until we meet again*
+*Now that i got you interested in some new stuff which you will go on and dig more for yourself cause this is just the tip of the iceberg and since you now know about verismo and godard let me drop this meme and until we meet again*
 
 ![bac5ba19148e56f6b1958e30657e22fb.jpg (JPEG Image, 395 × 395 pixels)](https://i.pinimg.com/736x/ba/c5/ba/bac5ba19148e56f6b1958e30657e22fb.jpg)
 
