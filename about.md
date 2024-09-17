@@ -9,4 +9,4 @@ If you are interested in reading random articles you find on the internet then y
 
 ### Contact me
 
-- telegram: @chill_vibez
+- telegram: [Dave Dumps](https://t.me/DaveDumps)
