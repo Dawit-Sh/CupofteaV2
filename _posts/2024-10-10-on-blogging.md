@@ -14,7 +14,7 @@ title: On Blogging Platforms
 
 <h2 id="WILE"> Writing is like exercise </h2>
 
-![people who write vs people who read meme|400](https://i.pinimg.com/736x/ee/92/27/ee9227e296285edb2e361bf9262fbe55.jpg)
+![people who write vs people who read meme](https://i.pinimg.com/736x/ee/92/27/ee9227e296285edb2e361bf9262fbe55.jpg)
 
 A regular writing habit is just like a regular exercise habit for your brain. Yes, it takes time, energy, and money, but it’s also good for you, and well worth it. Writing and especially publishing it is just like going to the gym for your brain. 
 
@@ -22,9 +22,9 @@ In the book [*Novelist as a Vocation*](https://www.goodreads.com/book/show/60387
 
 For [Cameron](https://en.wikipedia.org/wiki/Julia_Cameron), writing-as she says in [The Artist's Way](https://www.goodreads.com/book/show/615570.The_Artist_s_Way?ref=nav_sb_ss_1_11)-is a form of mental gymnastics, especially for the practice of morning pages, or daily writing with no objective other than to write about practically anything that comes to mind. She believes this clears mental clutter, strengthens creativity, and builds discipline much the same way regular physical exercise will strengthen the body. To her, writing is like a daily practice-one that improves with consistency and effort.  There are tons of research claiming writing is good for your mental and physical health but I am not going to open that can of worms, I will leave links so you can dig down that rabbit hole for yourself. 
 #### Papers 
-- [Frontiers | Research on Expressive Writing in Psychology: A Forty-year Bibliometric Analysis and Visualization of Current Status and Research Trends](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.825626/full)
-- [Frontiers | Research on Expressive Writing in Psychology: A Forty-year Bibliometric Analysis and Visualization of Current Status and Research Trends](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.825626/full)
-- [Expressive Writing: Connections to Physical and Mental Health | The Oxford Handbook of Health Psychology | Oxford Academic](https://academic.oup.com/edited-volume/28312/chapter-abstract/215027390?redirectedFrom=fulltext&login=false)
+- [Frontiers Research on Expressive Writing in Psychology: A Forty-year Bibliometric Analysis and Visualization of Current Status and Research Trends](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.825626/full)
+- [Frontiers Research on Expressive Writing in Psychology: A Forty-year Bibliometric Analysis and Visualization of Current Status and Research Trends](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.825626/full)
+- [Expressive Writing: Connections to Physical and Mental Health The Oxford Handbook of Health Psychology Oxford Academic](https://academic.oup.com/edited-volume/28312/chapter-abstract/215027390?redirectedFrom=fulltext&login=false)
 
 <h2 id="BHOB"> Brief History of Blogging </h2>
 It all starts in late 1990s with a guy called [Jorn Barger](https://en.wikipedia.org/wiki/Jorn_Barger), with a beard that seems to have inspired [Rick Rubin](https://en.wikipedia.org/wiki/Rick_Rubin). Jorn was a certified computer nerd messing around with [Minivac 601](https://www.computinghistory.org.uk/det/499/minivac-601/) since he was eleven years old, he studied math and sciences in high-school but never got a degree. Then as all the revolutionary people do he went out on a self discovery journey at [The Farm](<https://en.wikipedia.org/wiki/The_Farm_(Tennessee)>) with the hippies in Tennessee. Around 1989 he took a job at Northwestern University as an artificial intelligence researcher.  As any computer geek he spent time stuck to his screen and online forums, he used to hang around at a platform called Usenet, Jorn’s credited with over ten thousand posts. He helped write some of the earliest FAQs on things like ASCII art and was active in forums on topics as diverse as AI, singer [Kate Bush](http://www.katebush.com/), and writer [James Joyce](https://www.biography.com/people/james-joyce-9358676#synopsis). He was well-known and, to all appearances, well-liked for his first few years in the community. By 1992 due to some issues at work and on Usenet he was no longer employed at Northwestern University and banned from the forum. Fast-forward Jorn created a page that linked to other posts and pages, some on _Robot Wisdom_, some elsewhere. Every time he posted something new, it would appear at the top of the page, and everything else would move down a little. By scrolling down, you moved back in time. He started posting from 1995 and continued to post for an entire decade and in that time *Robot Wisdom* changed the way the world communicated. The whole process of collecting interesting things from around the world and writing about them on the internet was a new idea, and so it needed a new name. Jorn decided to call it “logging the web”, which made _Robot Wisdom_, of course, the first weblog. So it became _Robot Wisdom Weblog_, and the blogosphere was born on December 17, 1997. [More History](https://firstsiteguide.com/robot-wisdom-and-jorn-barger/)
@@ -63,7 +63,7 @@ In conclusion my best bet would be if you don't want to go through the hassle of
 - [Is blogging still worth it in 2024?](https://www.wix.com/blog/is-blogging-still-worth-it)
 - [What is a Microblog? [And Why Do You Need One]](https://influencermarketinghub.com/what-is-a-microblog/)
 - [What is Microblogging?](https://www.howtogeek.com/what-is-microblogging/)
-- [Creating a blog using GitHub Pages | David’s Blog](https://dfederm.com/creating-a-blog-using-github-pages/)
+- [Creating a blog using GitHub Pages - David’s Blog](https://dfederm.com/creating-a-blog-using-github-pages/)
 - [A Guideline to Building Your Blog Using GitHub Pages - ThinhDA](https://thinhdanggroup.github.io/github-blog/)
 - [How to setup a GitHub pages blog - Ciaran O’Donnell’s Blog](https://ciaranodonnell.dev/posts/setting-up-a-blog-with-github-pages/)
 - [The Best Writing Software for Authors in 2024 [Free & Paid]](https://whenyouwrite.com/best-writing-software/)
