@@ -73,5 +73,3 @@ In conclusion my best bet would be if you don't want to go through the hassle of
 - [18 Recommended Open-Source Tools for Writers and content creators](https://medevel.com/18-open-source-tools-for-writers/#gsc.tab=0)
 - [12 Open Source Tools for Writers](https://itsfoss.com/open-source-tools-writers/)
 
-
-
